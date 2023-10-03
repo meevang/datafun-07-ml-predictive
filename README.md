@@ -1,7 +1,7 @@
-# datafun-06-projects
-# Data Analytics Projects.ven
+# datafun-07-ml-predictive
+# Linear Regression
 
-- [GitHub Repository](https://github.com/meevang/datafun-06-projects/)
+- Author: Mee Vang [GitHub Repository](https://github.com/meevang/datafun-07-ml-predictive/)
 
 Jupyter Notebooks are a popular way to create and share documents for data analytics. They are interactive, easy to share, and support a wide variety of data science tools.
 
