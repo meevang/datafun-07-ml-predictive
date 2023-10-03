@@ -7,7 +7,7 @@ Jupyter Notebooks are a popular way to create and share documents for data analy
 
 ## Step 1: Open The Project Folder
 
-Open VS Code and clone your `datafun-06-projectst` repository to your machine.
+Open VS Code and clone your `datafun-07-ml-predictive` repository to your machine.
 
 ## Step 2: Update Default Python
 
